@@ -6,7 +6,7 @@ isPremium: true
 level: expert
 license: ""
 steps:
-- helo and step1.md
+- @step1.md
 - step2.md
 - step3.md
 - step4.md
