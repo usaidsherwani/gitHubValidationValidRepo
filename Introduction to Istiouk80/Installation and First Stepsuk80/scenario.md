@@ -6,7 +6,7 @@ isPremium: true
 level: expert
 license: ""
 steps:
-- @step1.md
+- step(1).md
 - step2.md
 - step3.md
 - step4.md
