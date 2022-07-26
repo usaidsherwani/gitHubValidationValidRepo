@@ -7,7 +7,7 @@ isAvailable: true
 license: ""
 steps:
 - test.jpg
-- 1.png
+- 2.png
 - step1.md
 - step2.md
 - step3.md
