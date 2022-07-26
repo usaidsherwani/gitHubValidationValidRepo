@@ -12,5 +12,6 @@ steps:
 - step4.md
 - step5.md
 - image.png
+- test.jpg
 time: 40 minutes
 title: Installation and First Stepsuk80
