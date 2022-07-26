@@ -7,7 +7,6 @@ isAvailable: true
 license: ""
 steps:
 - step1.md
-- 2.png
 - test.jpg
 time: 20 minutes
 title: Fast APIuk80
