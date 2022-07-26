@@ -9,5 +9,7 @@ steps:
 - step1.md
 - step2.md
 - step3.md
+- 2.png
+- test.jpg
 time: 20 minutes
 title: Fast APIuk80
