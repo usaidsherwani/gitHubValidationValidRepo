@@ -11,6 +11,5 @@ steps:
 - step1.md
 - step2.md
 - step3.md
-- step4.md
 time: 20 minutes
 title: Fast APIuk80
