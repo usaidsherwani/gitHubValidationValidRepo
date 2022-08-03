@@ -11,4 +11,4 @@ scenarios:
   - Fast APIuk80
   - Installation and First Stepsuk80
 title: Introduction to Istiouk806
-pulling: false
+pulling: true
