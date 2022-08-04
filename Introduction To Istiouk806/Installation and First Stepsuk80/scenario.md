@@ -9,6 +9,5 @@ steps:
 - step1.md
 - step2.md
 - step3.md
-- step4.md
 time: 40 minutes
 title: Installation and First Stepsuk80
