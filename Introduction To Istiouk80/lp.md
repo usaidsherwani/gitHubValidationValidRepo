@@ -10,6 +10,4 @@ scenarioCount: 2
 scenarios:
   - Fast APIuk80
   - Installation and First Stepsuk80
-title: Introduction to Istiouk806
-pulling: true
-testingPull: test
+title: Introduction to Istiouk807
