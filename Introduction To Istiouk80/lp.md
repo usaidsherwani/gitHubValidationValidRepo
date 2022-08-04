@@ -12,4 +12,4 @@ scenarios:
   - Installation and First Stepsuk80
 title: Introduction to Istiouk806
 pulling: true
-testingPull: asds1d
+testingPull: test
