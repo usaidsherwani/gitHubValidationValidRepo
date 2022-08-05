@@ -1,5 +1,5 @@
 ---
-title: Installing the microservice application sync test
+title: Installing the microservice application syn test
 
 ---
 <!--Installing the microservice application-->
