@@ -7,6 +7,5 @@ level: expert
 license: ""
 steps:
 - step1.md
-- step2.md
 time: 40 minutes
 title: Installation and First Stepsuk80
