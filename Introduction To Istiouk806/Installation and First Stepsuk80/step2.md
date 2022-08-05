@@ -1,5 +1,5 @@
 ---
-title: Introduction to Istio and installation process sync
+title: Introduction to Istio and installation process syn
 
 ---
 <!--Installation of Istio in the cluster-->
