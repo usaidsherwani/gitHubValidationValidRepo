@@ -9,4 +9,4 @@ steps:
 - step1.md
 - step2.md
 time: 40 minutes
-title: Installation and First Stepsuk80
+title: Installation And First Stepsuk80
