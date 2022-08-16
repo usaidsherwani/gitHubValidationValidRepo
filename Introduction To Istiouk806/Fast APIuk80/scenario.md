@@ -11,4 +11,4 @@ steps:
 - step1.md
 - step2.md
 time: 20 minutes
-title: Fast APIuk80
+title: Fast Apiuk80
