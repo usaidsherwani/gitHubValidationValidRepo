@@ -1,5 +1,5 @@
 ---
-title: Introduction to Istio and installation process sy
+title: Introduction to Istio and installation process sy resync learning path testing
 
 ---
 <!--Installation of Istio in the cluster-->
