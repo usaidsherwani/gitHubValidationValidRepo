@@ -11,5 +11,6 @@ steps:
 - step6.md
 - step7.md
 - pic.png
+- step8.md
 time: 40 minutes
 title: Installation And First Stepsuk80
