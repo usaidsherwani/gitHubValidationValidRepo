@@ -8,5 +8,6 @@ license: ""
 steps:
 - step1.md
 - step2.md
+- step6.md
 time: 40 minutes
 title: Installation And First Stepsuk80
