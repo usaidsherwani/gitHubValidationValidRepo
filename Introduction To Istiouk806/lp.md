@@ -1,7 +1,7 @@
 categories:
   - Istio
 description:
-  With the increase in usage of containerized applicationss,
+  aaWith the increase in usage of containerized applicationss,
 isAvailable: true
 isNew: true
 isPremium: true
