@@ -1,5 +1,5 @@
 image: ""
-description: An introduction to microservice and service mesh environment.
+description: An introduction to microservice and service mesh environment. resync
 isAvailable: true
 isNew: true
 isPremium: true
