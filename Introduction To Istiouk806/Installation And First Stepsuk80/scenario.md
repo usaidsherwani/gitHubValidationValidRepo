@@ -6,6 +6,6 @@ isPremium: true
 level: expert
 license: ""
 steps:
-  - pic.png
+  - pic.md
 time: 40 minutes
 title: Installation And First Stepsuk80
