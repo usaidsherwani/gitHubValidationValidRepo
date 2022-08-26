@@ -11,4 +11,5 @@ time: 40 minutes
 assets: 
   - pic.png
   - step.png
+  - help.png
 title: Installation And First Stepsuk80
