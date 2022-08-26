@@ -8,5 +8,4 @@ license: ""
 steps:
   - step1.md
 time: 40 minutes
-assets: 
 title: Installation And First Stepsuk80
