@@ -6,7 +6,6 @@ isPremium: true
 level: expert
 license: ""
 steps:
-- pic.png
 - step1.md
 - step2.md
 - image.png
