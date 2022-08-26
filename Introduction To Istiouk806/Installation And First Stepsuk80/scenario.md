@@ -7,7 +7,9 @@ level: expert
 license: ""
 steps:
   - step1.md
+  - step3.md
 time: 40 minutes
 assets:
   - pic.png
+  - image.png
 title: Installation And First Stepsuk80
