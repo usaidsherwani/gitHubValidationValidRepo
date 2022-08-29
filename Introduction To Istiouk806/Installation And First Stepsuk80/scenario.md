@@ -8,6 +8,7 @@ license: ""
 steps:
   - step1.md
   - step3.md
+  - pic.png
 time: 40 minutes
 assets:
   - pic.png
