@@ -1,7 +1,7 @@
 categories:
   - Istio
 description:
-  aaddWith the increase in usage of containerized applicationss,
+  aaddWith the increase in usage of containerized applicationss pull,
 isAvailable: true
 isNew: true
 isPremium: true
