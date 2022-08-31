@@ -10,5 +10,4 @@ scenarioCount: 3
 scenarios:
   - Fast Apiuk80
   - Installation And First Stepsuk80
-  - Hello
 title: Introduction To Istiouk806
