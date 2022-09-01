@@ -6,6 +6,6 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 2
+scenarioCount: 0
 scenarios:
 title: Introduction To Istiouk806
