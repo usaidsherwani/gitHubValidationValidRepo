@@ -7,6 +7,8 @@ isNew: true
 isPremium: true
 license: Apache
 scenarioCount: 0
-scenarios: []
+scenarios: [
+  Installation And First Stepsuk80
+]
 title: Introduction To Istiouk806
 
