@@ -10,4 +10,3 @@ steps:
 - step2.md
 time: 20 minutes
 title: Fast Apiuk80
-popo: 
