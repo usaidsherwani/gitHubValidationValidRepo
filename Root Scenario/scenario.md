@@ -11,7 +11,5 @@ steps:
 - step3.md
 - step4.md
 - step5.md
-- image.png
-- test.jpg
 time: 40 minutes
 title: Root Scenario
