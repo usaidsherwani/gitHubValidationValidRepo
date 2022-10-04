@@ -9,5 +9,4 @@ license: Apache
 scenarioCount: 2
 scenarios:
   - Fast Apiuk80
-  - Installation And First Stepsuk80
 title: Introduction To Istiouk806
