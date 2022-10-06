@@ -10,6 +10,5 @@ steps:
 - step2.md
 - step3.md
 - step4.md
-- step88.md
 time: 40 minutes
 title: Root Scenario2
