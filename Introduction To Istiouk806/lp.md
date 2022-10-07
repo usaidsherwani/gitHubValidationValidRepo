@@ -2,7 +2,7 @@ categories:
   - Istio
 description:
   With the increase in usage of containerized applications, asddsasd
-isAvailable: true
+isAvailable: false
 isNew: true
 isPremium: true
 license: Apache
