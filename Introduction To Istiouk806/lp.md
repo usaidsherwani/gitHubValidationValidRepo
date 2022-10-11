@@ -2,9 +2,9 @@ categories:
   - Istio
 description:
   With the increase in usage of containerized applications, asddsasd
-isAvailable: false
+isAvailable: true
 isNew: true
-isPremium: true
+isPremium: false
 license: Apache
 scenarioCount: 2
 scenarios:
