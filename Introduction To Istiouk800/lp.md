@@ -11,5 +11,3 @@ scenarios:
   - Fast Apiuk800
   - Installation And First Stepsuk800
 title: Introduction to Istiouk800
-pulling: true
-testingPull: asd
