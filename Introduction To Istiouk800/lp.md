@@ -10,4 +10,4 @@ scenarioCount: 2
 scenarios:
   - Fast Apiuk800
   - Installation And First Stepsuk800
-title: Introduction to Istiouk800
+title: Introduction To Istiouk800
