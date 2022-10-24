@@ -10,4 +10,4 @@ scenarioCount: 2
 scenarios:
   - Fast Apiuk900
   - Installation And First Stepsuk900
-title: Introduction to Istiouk900
+title: Introduction To Istiouk900
