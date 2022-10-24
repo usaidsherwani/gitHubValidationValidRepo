@@ -11,5 +11,3 @@ scenarios:
   - Fast Apiuk900
   - Installation And First Stepsuk900
 title: Introduction to Istiouk900
-pulling: true
-testingPull: asd
