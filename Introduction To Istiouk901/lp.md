@@ -6,7 +6,7 @@ isAvailable: true
 isNew: true
 isPremium: true
 license: Apache
-scenarioCount: 1
+scenarioCount: 2
 scenarios:
   - Fast Apiuk901
   - Installation And First Stepsuk901
