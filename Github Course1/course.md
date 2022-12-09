@@ -8,5 +8,5 @@
   - Istio
   complexity: beginner
   price:
-    value: 
-    currency: USD
+    value: 2
+    currency:
