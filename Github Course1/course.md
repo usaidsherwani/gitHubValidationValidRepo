@@ -3,6 +3,7 @@
   isPremium: true
   isAvailable: true
   learningPaths:
+  - halalala
   categories:
   - Istio
   complexity: beginner
