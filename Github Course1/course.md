@@ -9,4 +9,3 @@
   complexity: beginner
   price:
     value: 24.22
-    currency: USD
