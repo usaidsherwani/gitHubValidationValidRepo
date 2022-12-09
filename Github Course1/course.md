@@ -2,8 +2,7 @@
   description: Learn Istio, a solution for managing the different microservices that make up a cloud-native application.
   isPremium: true
   isAvailable: true
-  learningPaths:
-  - halalala
+  learningPaths: []
   categories:
   - Istio
   complexity: beginner
