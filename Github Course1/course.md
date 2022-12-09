@@ -8,5 +8,5 @@
   - Istio
   complexity: beginner
   price:
-    value: 2.12312
+    value: 0
     currency: USD
