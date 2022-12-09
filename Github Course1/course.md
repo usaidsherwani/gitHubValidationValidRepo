@@ -3,10 +3,9 @@
   isPremium: true
   isAvailable: true
   learningPaths:
-  - Introduction To Istiouk902
   categories:
   - Istio
   complexity: beginner
   price:
-    value: 0
+    value: 22
     currency: USD
