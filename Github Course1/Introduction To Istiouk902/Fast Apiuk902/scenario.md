@@ -1,6 +1,6 @@
 image: ""
 description: An Introductory scenario for Python developers to explore the basics of Docker Compose
-isNew: true
+sisNew: true
 isPremium: true
 level: beginner
 isAvailable: true
