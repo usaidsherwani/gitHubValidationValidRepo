@@ -4,6 +4,7 @@
   isAvailable: true
   learningPaths:
     - Introduction To Istiouk902
+    - Introduction To Istiouk903
   categories:
   - Istio
   complexity: beginner
