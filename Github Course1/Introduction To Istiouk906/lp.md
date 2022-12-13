@@ -8,6 +8,6 @@ isPremium: true
 license: Apache
 scenarioCount: 2
 scenarios:
-  - Fast Apiuk905
-  - Installation And First Stepsuk905
-title: Introduction To Istiouk905
+  - Fast Apiuk906
+  - Installation And First Stepsuk906
+title: Introduction To Istiouk906
