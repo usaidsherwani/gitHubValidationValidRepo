@@ -3,7 +3,8 @@
   isPremium: true
   isAvailable: true
   learningPaths:
-    - Introduction To Istiouk917
+    - Introduction To Istiouk918
+    - Introduction To Istiouk919
   categories:
   - Istio
   complexity: beginner
