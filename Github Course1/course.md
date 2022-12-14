@@ -3,7 +3,7 @@
   isPremium: true
   isAvailable: true
   learningPaths:
-    - Introduction To Istiouk921
+    - Introduction To Istiouk922
     - Introduction To Istiouk919
   categories:
   - Istio
