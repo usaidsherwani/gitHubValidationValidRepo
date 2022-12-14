@@ -1,4 +1,4 @@
-categories:
+scategories:
   - Istio
 description:
   With the increase in usage of containerized applications,
