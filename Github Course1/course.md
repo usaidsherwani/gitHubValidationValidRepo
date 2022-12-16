@@ -3,8 +3,7 @@
   isAvailable: true
   complexity: beginner
   isPremium: false
-  learningPaths: 
-    - hello
+  learningPaths: []
   price:
     value: 22
     currency: USD
