@@ -4,6 +4,8 @@
   complexity: beginner
   isPremium: false
   learningPaths: []
+  categories:
+  - Istio
   price:
     value: 22
     currency: USD
