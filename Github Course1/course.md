@@ -8,5 +8,5 @@
   categories:
   - Istio
   price:
-    value: 22
+    values: 22
     currency: USD
