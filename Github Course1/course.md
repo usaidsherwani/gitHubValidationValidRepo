@@ -7,6 +7,6 @@
     - Introduction To Istiouk923
   categories:
   - Istio
-  sprice:
-    values: 22
+  price:
+    value: 22
     currency: USD
