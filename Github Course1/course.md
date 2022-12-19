@@ -1,12 +1,13 @@
   courseName: Github Course1
   description: Learn Istio, a solution for managing the different microservices that make up a cloud-native application.
-  isPremium: false
+  isPremium: true
   isAvailable: true
   complexity: beginner
   learningPaths:
+    - Introduction To Istiouk919
     - Introduction To Istiouk923
   categories:
   - Istio
-  sprice:
-    values: 22
+  price:
+    value: 22
     currency: USD
