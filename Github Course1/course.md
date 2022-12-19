@@ -6,7 +6,6 @@
     - Introduction To Istiouk923
   categories:
   - Istio
-  complexity: beginner
   price:
     value: 22
     currency: USD
