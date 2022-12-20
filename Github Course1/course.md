@@ -5,7 +5,6 @@
   complexity: beginner
   learningPaths:
     - Introduction To Istiouk923
-    - Introduction To Istiouk919
   categories:
   - Istio
   price:

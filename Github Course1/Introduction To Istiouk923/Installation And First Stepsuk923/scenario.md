@@ -2,7 +2,7 @@ image: ""
 description: An introduction to microservice and service mesh environment.
 isAvailable: true
 isNew: true
-isPremium: true
+isPremium: false
 level: expert
 license: ""
 steps:
